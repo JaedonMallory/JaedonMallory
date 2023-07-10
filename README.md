@@ -18,6 +18,18 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>📜 Certifications</h2>
+
+- <b>CompTIA</b>
+  - [CompTIA A+](https://www.credly.com/badges/ed0b2fef-17d2-432d-aeed-35729c7ba43e/public_url)
+  - Planned Certifications: Network+ 7/21 and Security+ 8/15
+- <b>Linux</b>
+  - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000569557/5rlzb9l7aa)
+  - Planned Certifications: Linux+ and Red Hat Certified System Administrator
+- <b>General</b>
+  - [Google IT Support Professional](https://www.credly.com/badges/bed483ca-a420-4c29-be26-2cb885afdccd/public_url)
+  - [ITIL 4 Foundations](https://www.peoplecert.org/for-corporations/certificate-verification-service)
+
 <h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
