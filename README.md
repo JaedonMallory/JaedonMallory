@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- <b>Setting Up A Windows 10 Virtual Machine</b>
+  -
 - <b>Setting Up A Firewall on Windows 10 Virtual Machine</b>
   - 
 - <b>Configuring A Network</b>
