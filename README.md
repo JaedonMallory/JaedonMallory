@@ -22,7 +22,7 @@
   - [ITIL 4 Foundations](https://www.peoplecert.org/for-corporations/certificate-verification-service)
 
 <h2>📺 YouTube Videos</h2>
-
+  - Planned Update With Future Content...
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JaedonMallory | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
