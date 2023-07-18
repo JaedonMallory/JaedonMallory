@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaedon! <br/><a href="https://github.com/jaedonmallory">IT Specialist</a>, <a href="https://www.linkedin.com/in/jaedonmallory/"> IT Technical Support Professional</a> </h1>
+<h1>Hi, I'm Jaedon! <br/><a href="https://www.linkedin.com/in/jaedonmallory">Information Technology Specialist</a> </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
