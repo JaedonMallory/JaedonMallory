@@ -6,7 +6,7 @@
   - 
 - <b>Setting Up A Firewall on Windows 10 Virtual Machine</b>
   - 
-- <b>Configuring A Network</b>
+- <b>Configuring A Raspberry Pi as A Private DNS Server</b>
   - 
 
 <h2>📜 Certifications</h2>
