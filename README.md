@@ -5,9 +5,11 @@
 - <b>[Setting Up A Windows 10 Virtual Machine with VirtualBox](https://github.com/JaedonMallory/Windows10VM/tree/main)</b>
   - 
 - <b>Setting Up A Firewall on Windows 10 Virtual Machine</b>
-  - 
+  - (Future Posting)
 - <b>Configuring A Raspberry Pi as A Private DNS Server</b>
-  - 
+  - (Future Posting)
+- <b>Configuring An Active Directory Home Lab With Windows Server 2019 and Windows 10</b>
+  - (Future Posting)
 
 <h2>📜 Certifications</h2>
 
