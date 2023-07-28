@@ -9,7 +9,6 @@
 - <b>Configuring A Raspberry Pi as A Private DNS Server</b>
   - (Future Posting)
 - <b>[Configuring An Active Directory Home Lab With Windows Server 2019 and Windows 10](https://github.com/JaedonMallory/ActiveDirectory)</b>
-  - (Future Posting)
 
 <h2>📜 Certifications</h2>
 
