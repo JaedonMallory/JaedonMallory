@@ -3,18 +3,18 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>[Setting Up A Windows 10 Virtual Machine with VirtualBox](https://github.com/JaedonMallory/Windows10VM/tree/main)</b>
-  - 
+- <b>[Configuring An Active Directory Home Lab With Windows Server 2019 and Windows 10](https://github.com/JaedonMallory/ActiveDirectory)</b>
 - <b>Setting Up A Firewall on Windows 10 Virtual Machine</b>
   - (Future Posting)
 - <b>Configuring A Raspberry Pi as A Private DNS Server</b>
   - (Future Posting)
-- <b>[Configuring An Active Directory Home Lab With Windows Server 2019 and Windows 10](https://github.com/JaedonMallory/ActiveDirectory)</b>
+
 
 <h2>📜 Certifications</h2>
 
 - <b>CompTIA</b>
   - [CompTIA A+](https://www.credly.com/badges/ed0b2fef-17d2-432d-aeed-35729c7ba43e/public_url)
-  - Planned Certifications: Network+ 7/21 and Security+ 8/15
+  - Planned Certifications: Network+ and Security+
 - <b>Linux</b>
   - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000569557/5rlzb9l7aa)
   - Planned Certifications: Linux+ and Red Hat Certified System Administrator
