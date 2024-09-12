@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jaedon! <br/><a href="https://www.linkedin.com/in/jaedonmallory">Information Technology Specialist</a> </h1>
+<h1>Hi, I'm Jaedon! <br/><a href="https://www.linkedin.com/in/jaedonmallory">System Administrator</a> </h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -14,7 +14,7 @@
 
 - <b>CompTIA</b>
   - [CompTIA A+](https://www.credly.com/badges/ed0b2fef-17d2-432d-aeed-35729c7ba43e/public_url)
-  - Planned Certifications: Network+ and Security+
+  - Planned Certifications: RHELSA
 - <b>Linux</b>
   - [LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000569557/5rlzb9l7aa)
   - Planned Certifications: Linux+ and Red Hat Certified System Administrator
